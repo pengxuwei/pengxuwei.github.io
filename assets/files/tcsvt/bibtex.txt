@@ -1,0 +1,7 @@
+@article{deng2020rethinking,
+  title={Rethinking triplet loss for domain adaptation},
+  author={Deng, Weijian and Zheng, Liang and Sun, Yifan and Jiao, Jianbin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2020},
+  publisher={IEEE}
+}
