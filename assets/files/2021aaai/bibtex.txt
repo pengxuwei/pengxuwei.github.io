@@ -1,0 +1,6 @@
+@inproceedings{Wei:AAAI2021,
+  author    = {Xipeng Chen and Pengxu Wei and Liang Lin},
+  title     = {Deductive Learning for Weakly-Supervised 3D Human Pose Estimation via Uncalibrated Cameras},
+  booktitle = {AAAI Conference on Artificial Intelligence (AAAI)},
+  year      = {2021}
+}

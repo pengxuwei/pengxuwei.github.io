@@ -1,0 +1,9 @@
+@article{wang20193d,
+  title={3D human pose machines with self-supervised learning},
+  author={Wang, Keze and Lin, Liang and Jiang, Chenhan and Qian, Chen and Wei, Pengxu},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={42},
+  number={5},
+  pages={1069--1082},
+  year={2019}
+}

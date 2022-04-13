@@ -1,0 +1,7 @@
+@inproceedings{wei2020aim,
+  title={AIM 2020 challenge on real image super-resolution: Methods and results},
+  author={Wei, Pengxu and Lu, Hannan and Timofte, Radu and Lin, Liang and Zuo, Wangmeng and Pan, Zhihong and Li, Baopu and Xi, Teng and Fan, Yanwen and Zhang, Gang and others},
+  booktitle={European Conference on Computer Vision Workshop},
+  pages={392--422},
+  year={2020}
+}

@@ -1,0 +1,6 @@
+@inproceedings{Wei:ECCV2020,
+  author    = {Pengxu Wei and Ziwei Xie and Hannan Lu and Zongyuan Zhan and Qixiang Ye and Wangmeng Zuo and Liang Lin},
+  title     = {Component Divide-and-Conquer for Real-World Image Super-Resolution},
+  booktitle = {ECCV},
+  year  = {2020}
+}
