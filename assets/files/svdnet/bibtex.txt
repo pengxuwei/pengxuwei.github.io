@@ -1,0 +1,6 @@
+@InProceedings{Sun_2017_ICCV,
+author = {Sun, Yifan and Zheng, Liang and Deng, Weijian and Wang, Shengjin},
+title = {SVDNet for Pedestrian Retrieval},
+booktitle = {Proc. ICCV},
+year = {2017}
+}
