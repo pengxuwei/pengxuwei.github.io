@@ -1,0 +1,6 @@
+@inproceedings{Wei:PAMI2019,
+  author    = {Fang Wan and Pengxu Wei and Zhenjun Han and Jianbin Jiao and Qixiang Ye},
+  title     = {Min-Entropy Latent Model for Weakly Supervised Object Detection},
+  booktitle = {IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)},
+  year      = {2019}
+}

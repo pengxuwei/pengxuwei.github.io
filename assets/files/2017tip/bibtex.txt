@@ -1,0 +1,6 @@
+@inproceedings{Wei:TIP2017,
+  author    = {Pengxu Wei and Fei Qin and Fang Wan and Yi Zhu and Jianbin Jiao and Qixiang Ye},
+  title     = {Correlated Topic Vector for Scene Classification},
+  booktitle = {IEEE Transactions on Image Processing (TIP)},
+  year      = {2017}
+}
