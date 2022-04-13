@@ -1,6 +1,6 @@
 Bootstrap 4 Portfolio Theme for Developers
 
-Theme name:
+Theme name:pxw
 =======================================================================
 Developer
 
