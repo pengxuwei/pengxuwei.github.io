@@ -1,0 +1,10 @@
+@article{huang2021deductive,
+  title={Deductive Reinforcement Learning for Visual Autonomous Urban Driving Navigation},
+  author={Huang, Changxin and Zhang, Ronghui and Ouyang, Meizi and Wei, Pengxu and Lin, Junfan and Su, Jiang and Lin, Liang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={32},
+  number={12},
+  pages={5379--5391},
+  year={2021},
+  publisher={IEEE}
+}

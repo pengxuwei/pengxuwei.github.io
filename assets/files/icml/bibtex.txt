@@ -1,0 +1,8 @@
+@inproceedings{Deng:ICML2021,
+  author    = {Weijian Deng and
+               Stephen Gould and
+               Liang Zheng},
+  title     = {What Does Rotation Prediction Tell Us about Classifier Accuracy under Varying Testing Environments?},
+  booktitle = {ICML},
+  year      = {2021}
+}

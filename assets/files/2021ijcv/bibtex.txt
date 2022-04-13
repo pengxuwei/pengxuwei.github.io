@@ -1,0 +1,6 @@
+@inproceedings{Wei:IJCV2021,
+  author    = {Ziliang Chen and Pengxu Wei and Jingyu Zhuang and Guanbin Li and Liang Lin},
+  title     = {Deep CockTail Networks: A Universal Framework for Visual Multi-source Domain Adaptation},
+  booktitle = {IJCV},
+  year      = {2021}
+}

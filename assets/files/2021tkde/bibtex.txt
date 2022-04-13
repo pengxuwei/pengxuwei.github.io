@@ -1,0 +1,7 @@
+@article{zheng2021graph,
+  title={Graph-Convolved Factorization Machines for Personalized Recommendation},
+  author={Zheng, Yongsen and Wei, Pengxu and Chen, Ziliang and Cao, Yang and Lin, Liang},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}

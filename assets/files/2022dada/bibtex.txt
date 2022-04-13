@@ -1,0 +1,8 @@
+@inproceedings{Wei:DADA2022,
+  author    = {Xiaoqian Xu and
+ Pengxu Wei and
+  Weikai Chen and Yang Liu and   Guanbin Li and Liang Lin},
+  title     = {Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution},
+  booktitle = {CVPR},
+  year   = {2022}
+}

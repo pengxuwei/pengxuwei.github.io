@@ -1,0 +1,6 @@
+@inproceedings{Wei:MM2021,
+  author    = {Jiutao Yue and Haofeng Li and Pengxu Wei and Guanbin Li and Liang Lin},
+  title     = {Robust Real-World Image Super-Resolution against Adversarial Attacks},
+  booktitle = {ACM Multimedia},
+  year      = {2021}
+}
