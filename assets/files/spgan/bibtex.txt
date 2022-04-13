@@ -1,0 +1,6 @@
+@InProceedings{Deng_2018_CVPR,
+author = {Deng, Weijian and Zheng, Liang and Ye, Qixiang and Kang, Guoliang and Yang, Yi and Jiao, Jianbin},
+title = {Image-Image Domain Adaptation With Preserved Self-Similarity and Domain-Dissimilarity for Person Re-Identification},
+booktitle = {Proc. CVPR},
+year = {2018}
+}
